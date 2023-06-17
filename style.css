@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+body{
+    background-color: #eee;
+    font-family: 'Roboto', sans-serif;
+}
+    .container{
+        max-width: 1000px;
+        background-color: #E4f9f5;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    header{
+
+    }
+    .profile-image{
+        width: 100px;
+        height: 120px;
+        border: 3px solid white;
+        border-radius: 50%;
+        float: left;
+        
+    }
+    .header-bio{
+        float: left;
+        padding: 30px; 
+        color: rgb(112, 70, 6);
+    }
+    .header-contact{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 20px;
+        float: right;
+        padding: 30px;
+    }
+    .header-contact a{
+       text-decoration: none;
+       color: teal;
+       font-weight: bold;
+    }
+    .header-contact a:hover{
+        text-decoration: underline;
+        color: tomato;
+    }
+    .div-clear{
+        clear: both;
+    }
+    hr{
+        border: solid black 3px;
+        width: 100%;
+        margin: 20px auto;
+        border-bottom: none;
+    }
+   
+   #personal-section{
+
+
+   }
+   .content{
+    margin-bottom: 20px;
+   }
+   .left-div{
+    width: 30%;
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(112, 70, 6) ;
+   }
+.right-div{
+width: 70%;
+float: left;
+font-family: 'Times New Roman', Times, serif;
+}
+ .h4{
+   color :rgb(23, 23, 24) ;
+} 
+ 
+.common-hr{
+    border: solid black 1px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+
+}
+
+.edu-template-left{
+    float:left;
+    width:45%;
+}
+.edu-tempalte-right{
+    float:right;
+    width:45%;
+}
+.bottom-container{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bottom-container a{
+   color:white;
+   text-decoration: none;
+   margin: 20px;
+   font-family: 'Times New Roman', Times, serif;
+}
+.bottom-container p{
+    color:white;
+   text-decoration: none;
+   margin: 20px;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+
